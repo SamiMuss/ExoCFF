@@ -1,0 +1,16 @@
+{
+  "name": "session11",
+  "version": "1.0.0",
+  "description": "",
+  "browserlist": " >0.2%, not dead",
+    "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
